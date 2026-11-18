@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Campus</string>
+    <string name="app_name">Exo2(Campus)</string>
+    <string name="campus_title">Campus</string>
     <string name="event_book">Réserver</string>
     <string name="event_full">Complet</string>
     <string name="event_location_unknown">Lieu à confirmer</string>

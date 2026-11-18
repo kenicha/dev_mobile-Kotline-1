@@ -12,7 +12,8 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             Exo2CampusTheme {
-                EventListScreen(events)
+                //EventListScreen(events)
+                EventListScreenP2(eventsP2)
             }
         }
     }
